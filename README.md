@@ -1,4 +1,4 @@
-<img src="assets/IMG/logo.svg" width="100%" style="background-color: àfff;">
+<div style="text-aling:center; background-color: àfff;"><img src="assets/IMG/logo.svg" width="80%"></div>
 
 # Landing-Page
 
