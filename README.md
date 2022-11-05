@@ -1,6 +1,6 @@
-<img src="assets/IMG/logo.svg" width="100%">
+<img src="assets/IMG/logo.svg" width="100%" style="background-color: àfff;">
 
-# Hyperink-Website
+# Landing-Page
 
 Landing Page strutturata per una challenge online, che aveva la necessità di creare un comming soon Page.
 
